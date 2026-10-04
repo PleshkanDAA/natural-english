@@ -1,0 +1,18 @@
+{
+  "name": "natural-english",
+  "version": "0.1.0",
+  "description": "Makes English text read like a careful human wrote it: plain sentences, no AI tells, no em dashes.",
+  "author": {
+    "name": "Vasilii Pleshkan"
+  },
+  "homepage": "https://github.com/PleshkanDAA/natural-english",
+  "repository": "https://github.com/PleshkanDAA/natural-english",
+  "license": "MIT",
+  "keywords": [
+    "english",
+    "writing",
+    "style",
+    "ai-writing",
+    "documentation"
+  ]
+}

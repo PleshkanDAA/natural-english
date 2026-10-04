@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pleshkan-natural-english",
+  "description": "Makes English text read like a careful human wrote it: plain sentences, no AI tells, no em dashes.",
+  "owner": {
+    "name": "Vasilii Pleshkan"
+  },
+  "plugins": [
+    {
+      "name": "natural-english",
+      "source": "./",
+      "description": "Makes English text read like a careful human wrote it: plain sentences, no AI tells, no em dashes."
+    }
+  ]
+}
